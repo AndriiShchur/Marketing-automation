@@ -1,0 +1,10 @@
+Churn_Status,count,Period
+Churn,2241,2014-12-02
+New_Customer,553,2014-12-02
+Not_Churn,2712,2014-12-02
+Churn,1256,2014-05-02
+New_Customer,571,2014-05-02
+Not_Churn,3671,2014-05-02
+Churn,953,2013-12-02
+New_Customer,676,2013-12-02
+Not_Churn,3832,2013-12-02
